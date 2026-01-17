@@ -23,15 +23,17 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ashwil-colaco-b95537376" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://codeforces.com/profile/ashwil65" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
-</a>
+### 🌐 Socials
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwil%20Colaco-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashwil-colaco-b95537376)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/ashwil_colaco/?hl=en)
+
 </p>
+
+
+
 
 ---
 
