@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ashwil Colaco</h1>
+<h3 align="center">
+🚀 Java Programmer | 🌐 Full Stack Developer | 🤖 Exploring Automation & AI/ML
+</h3>
 
-<!--
-**Ashwil-Colaco/Ashwil-Colaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about building scalable web applications, solving real-world problems,  
+and continuously learning emerging technologies.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwil-colaco&theme=gruvbox&no-frame=true&margin-w=10" alt="ashwil-colaco trophies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍🎓 About Me
+- 🎓 B.Tech Engineering Student  
+- 💻 Interested in **Full Stack Web Development**  
+- ☕ Primary language: **Java**  
+- 🤖 Currently exploring **AI, Automation & ML concepts**  
+- 📈 Love problem-solving & competitive programming  
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/ashwil-colaco-b95537376" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/ashwil65" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwil-colaco&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwil-colaco&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwil-colaco&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Quote I Believe In
+> **"Consistency beats talent when talent doesn’t stay consistent."**
