@@ -4,13 +4,13 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving real-world problems,  
-and continuously learning emerging technologies.
+<i>Passionate about building scalable web applications, solving real-world problems and learning new technologies.</i>
 </p>
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashwil-colaco&theme=gruvbox&no-frame=true&margin-w=10" alt="ashwil-colaco trophies" />
-</p>
+</p> -->
 
 ---
 
@@ -19,7 +19,7 @@ and continuously learning emerging technologies.
 - 💻 Interested in **Full Stack Web Development**  
 - ☕ Primary language: **Java**  
 - 🤖 Currently exploring **AI, Automation & ML concepts**  
-- 📈 Love problem-solving & competitive programming  
+- 📈 Actively engaged in problem-solving & competitive programming  
 
 ---
 
@@ -62,13 +62,14 @@ and continuously learning emerging technologies.
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwil-colaco&show_icons=true&theme=tokyonight" />
+<!-- <p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwil-colaco&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwil-colaco&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashwil-colaco&layout=compact&theme=tokyonight" />
+</p> -->
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwil-colaco&theme=tokyonight" />
